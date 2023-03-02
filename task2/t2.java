@@ -1,4 +1,4 @@
-package Tasks.task1;
+package Tasks.task2;
 
 /**
  * Вывести все простые числа от 1 до 1000

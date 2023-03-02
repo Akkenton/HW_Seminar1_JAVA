@@ -1,4 +1,4 @@
-package Tasks.task2;
+package Tasks.task3;
 /*
  * Реализовать простой калькулятор (+ - / *)
  */
